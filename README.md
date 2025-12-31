@@ -13,6 +13,7 @@ This paper proposes Semantic Memory State (SMS), a paradigm shift in transformer
 Instead of storing O(n) key-value vectors for every token across all layers, SMS maintains a bounded (~500-1500 token) natural language summary of conversation state, achieving O(1) memory complexity regardless of conversation length.
 
 ## 📄 Paper
+- **[PDF](SMS_Paper.pdf)**
 - **[Archive.org (Permanent)](https://archive.org/details/semantic-memory-state-as-kv-cache-replacement-for-unbounded-context-in-transformer-inference)**
 
 ## 💡 Key Insight
